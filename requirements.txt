@@ -1,0 +1,12 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+xgboost
+python-whois
+pyOpenSSL
+requests
+beautifulsoup4
+lxml
+gradio
